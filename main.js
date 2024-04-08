@@ -26,6 +26,6 @@ document.querySelector('#app').innerHTML = `
 
 console.log(person);
 helloWord();
-console.log(mainLanguage);
+console.log(DEV_LAN);
 
 setupCounter(document.querySelector('#counter'));
